@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+p {
+    margin: 0 auto;
+    padding: 20px
+}
+
+h1 {
+    background-color: rgb(102, 93, 93);
+    color: whitesmoke;
+    margin: 0 auto;
+    padding: 80px;
+}
+
+h2 {
+    background-color: rgb(105, 26, 26);
+    color: whitesmoke;
+    margin: 0 auto;
+    padding: 80px;
+}
+
+.kitchen-stuff {
+    display: flex;
+}
+
+.kitchen-stuff img {
+    width: 100%;
+    height: auto;
+}
