@@ -11,22 +11,37 @@ p {
 h1 {
     background-color: rgb(102, 93, 93);
     color: whitesmoke;
+    font-size:80px;
     margin: 0 auto;
-    padding: 80px;
+    padding: 40px;
+    font-family: 'Truculenta';
 }
 
 h2 {
     background-color: rgb(105, 26, 26);
     color: whitesmoke;
     margin: 0 auto;
-    padding: 80px;
+    padding: 40px;
+    font-family: 'Truculenta';
 }
 
-.kitchen-stuff {
+h3 {
+    font-size: 50px;
+    color: rgb(34, 25, 25);
+    font-family: 'Truculenta';
+}
+
+h4 {
+    font-size: 50px;
+    color: rgb(34, 25, 25);
+    font-family: 'Truculenta';
+}
+
+.kitchen {
     display: flex;
 }
 
-.kitchen-stuff img {
+.kitchen img {
     width: 100%;
     height: auto;
 }
